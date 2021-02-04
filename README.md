@@ -1,2 +1,2 @@
 # CSS_tooltip
-Tooltip based on CSS
+Tooltip based on CS.
